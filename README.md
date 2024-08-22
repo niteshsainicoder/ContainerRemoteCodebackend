@@ -1,9 +1,4 @@
 ﻿# ContainerRemoteCodebackend
-
-Here's the README.md template you can copy:
-
-markdown
-Copy code
 # Executors
 
 This repository contains Dockerized executors for running code in different programming languages. Each executor is set up to run specific code in a containerized environment, ensuring isolation and consistency across executions.
@@ -34,11 +29,10 @@ Copy code
 Follow these instructions to build and run the executors.
 
 #### 1. Clone the Repository
-
 ```bash
 git clone https://github.com/niteshsainicoder/ContainerRemoteCodebackend.git
 cd executors
-2. Navigate to the Desired Language Directory
+ 2. Navigate to the Desired Language Directory
 For example, to work with the JavaScript executor:
 
 bash
